@@ -1,5 +1,4 @@
 ### Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/zjiayu064?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 - 🔭 About Me
 - 2020.09～2024.06  中国科学技术大学 物理学院 微电子与固体电子学专业 学士学位
@@ -12,5 +11,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zjiayu064" /> </div>
